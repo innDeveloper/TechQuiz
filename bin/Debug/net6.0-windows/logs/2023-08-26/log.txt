@@ -1,0 +1,44 @@
+2023-08-26 17:04:53.1306    1  INFO MainLogger İşlem onaylandı. 
+2023-08-26 17:07:53.3907    1  INFO MainLogger İşlem onaylandı. 
+2023-08-26 17:08:49.5109    1  INFO MainLogger İşlem onaylandı. 
+2023-08-26 17:09:11.7213    1  INFO MainLogger İşlem onaylandı. 
+2023-08-26 17:12:51.6230    1  INFO MainLogger İşlem onaylandı. 
+2023-08-26 17:28:13.6838    1  INFO MainLogger İşlem onaylandı. 
+2023-08-26 18:04:50.4002    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-26 18:04:50.4344    1  INFO MainLogger Datagridview güncellendi 
+2023-08-26 18:04:52.7378    1  INFO MainLogger İşlem onaylandı. 
+2023-08-26 18:04:54.0337    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-26 18:04:54.0337    1  INFO MainLogger Datagridview güncellendi 
+2023-08-26 18:04:58.2541    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-26 18:04:58.2564    1  INFO MainLogger Datagridview güncellendi 
+2023-08-26 18:04:59.8902    1  INFO MainLogger Api sınırı aşıldı. İzin verileren sınır maximum 3 saniyede veri çekme isteği. 
+2023-08-26 18:05:02.5727    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-26 18:05:02.5727    1  INFO MainLogger Datagridview güncellendi 
+2023-08-26 18:09:14.1636    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-26 18:09:14.2055    1  INFO MainLogger Datagridview güncellendi 
+2023-08-26 18:09:53.0064    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-26 18:09:53.0391    1  INFO MainLogger Datagridview güncellendi 
+2023-08-26 18:10:23.9663    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-26 18:10:23.9976    1  INFO MainLogger Datagridview güncellendi 
+2023-08-26 18:10:27.3480    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-26 18:10:27.3507    1  INFO MainLogger Datagridview güncellendi 
+2023-08-26 18:12:39.5530    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-26 18:12:39.6231    1  INFO MainLogger Datagridview güncellendi 
+2023-08-26 18:27:04.3143    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-26 18:27:04.3331    1  INFO MainLogger Datagridview güncellendi 
+2023-08-26 18:34:39.6755    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-26 18:34:39.7104    1  INFO MainLogger Datagridview güncellendi 
+2023-08-26 18:35:15.0349    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-26 18:35:15.0641    1  INFO MainLogger Datagridview güncellendi 
+2023-08-26 18:35:17.3141    1  INFO MainLogger İşlem onaylandı. 
+2023-08-26 18:44:57.7716    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-26 18:44:57.7716    1  INFO MainLogger Datagridview güncellendi 
+2023-08-26 18:45:00.1105    1  INFO MainLogger İşlem onaylandı. 
+2023-08-26 18:45:01.0368    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-26 18:45:01.0368    1  INFO MainLogger Datagridview güncellendi 
+2023-08-26 19:11:15.4998    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-26 19:11:15.5314    1  INFO MainLogger Datagridview güncellendi 
+2023-08-26 19:11:16.9959    1  INFO MainLogger Api sınırı aşıldı. İzin verileren sınır maximum 3 saniyede 1 api isteği. 
+2023-08-26 19:11:20.4975    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-26 19:11:20.4975    1  INFO MainLogger Datagridview güncellendi 
+2023-08-26 19:11:22.4341    1  INFO MainLogger İşlem onaylandı. 

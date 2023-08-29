@@ -1,0 +1,87 @@
+C:\Users\bild\source\repos\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.csproj.AssemblyReference.cache
+C:\Users\bild\source\repos\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.Main.resources
+C:\Users\bild\source\repos\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.csproj.GenerateResource.cache
+C:\Users\bild\source\repos\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bild\source\repos\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.AssemblyInfoInputs.cache
+C:\Users\bild\source\repos\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.AssemblyInfo.cs
+C:\Users\bild\source\repos\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.csproj.CoreCompileInputs.cache
+C:\Users\bild\source\repos\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.exe
+C:\Users\bild\source\repos\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.deps.json
+C:\Users\bild\source\repos\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.runtimeconfig.json
+C:\Users\bild\source\repos\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.dll
+C:\Users\bild\source\repos\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.pdb
+C:\Users\bild\source\repos\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\bild\source\repos\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.csproj.CopyComplete
+C:\Users\bild\source\repos\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.dll
+C:\Users\bild\source\repos\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\refint\OnesTechSecureAccessGuard.dll
+C:\Users\bild\source\repos\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.pdb
+C:\Users\bild\source\repos\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.genruntimeconfig.cache
+C:\Users\bild\source\repos\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\ref\OnesTechSecureAccessGuard.dll
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.exe
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.deps.json
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.runtimeconfig.json
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.dll
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.pdb
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\NLog.dll
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.csproj.AssemblyReference.cache
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.Main.resources
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.csproj.GenerateResource.cache
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.AssemblyInfoInputs.cache
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.AssemblyInfo.cs
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.csproj.CoreCompileInputs.cache
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.csproj.CopyComplete
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.dll
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\refint\OnesTechSecureAccessGuard.dll
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.pdb
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.genruntimeconfig.cache
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\ref\OnesTechSecureAccessGuard.dll
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\nlog.config
+C:\Users\inanc\Downloads\OnesTechSecureAccessGuard (3)\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.Properties.Resources.resources
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.exe
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\nlog.config
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.deps.json
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.runtimeconfig.json
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.dll
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.pdb
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\NLog.dll
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.csproj.AssemblyReference.cache
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.Main.resources
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.Properties.Resources.resources
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.csproj.GenerateResource.cache
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.AssemblyInfoInputs.cache
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.AssemblyInfo.cs
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.csproj.CoreCompileInputs.cache
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.csproj.CopyComplete
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.dll
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\refint\OnesTechSecureAccessGuard.dll
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.pdb
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.genruntimeconfig.cache
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\ref\OnesTechSecureAccessGuard.dll
+C:\Users\inanc\OneDrive\Masaüstü\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\Settings.ini
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.exe
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\nlog.config
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\Settings.ini
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.deps.json
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.runtimeconfig.json
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.dll
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\OnesTechSecureAccessGuard.pdb
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\bin\Debug\net6.0-windows\NLog.dll
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.csproj.AssemblyReference.cache
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.Main.resources
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.Properties.Resources.resources
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.csproj.GenerateResource.cache
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.AssemblyInfoInputs.cache
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.AssemblyInfo.cs
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.csproj.CoreCompileInputs.cache
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.csproj.CopyComplete
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.dll
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\refint\OnesTechSecureAccessGuard.dll
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.pdb
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\OnesTechSecureAccessGuard.genruntimeconfig.cache
+C:\Users\bild\Downloads\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\OnesTechSecureAccessGuard\obj\Debug\net6.0-windows\ref\OnesTechSecureAccessGuard.dll

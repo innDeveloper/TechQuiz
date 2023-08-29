@@ -1,0 +1,9 @@
+2023-08-28 14:53:48.5805    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-28 14:53:48.6326    1  INFO MainLogger Datagridview güncellendi 
+2023-08-28 14:53:59.5321    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-28 14:53:59.5394    1  INFO MainLogger Datagridview güncellendi 
+2023-08-28 14:54:02.6687    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-28 14:54:02.6687    1  INFO MainLogger Datagridview güncellendi 
+2023-08-28 14:54:31.0371    1  INFO ServiceLogger Bilgiler başarıyla getirildi. 
+2023-08-28 14:54:31.0371    1  INFO MainLogger Datagridview güncellendi 
+2023-08-28 14:54:33.8951    1  INFO MainLogger İşlem onaylandı. 
